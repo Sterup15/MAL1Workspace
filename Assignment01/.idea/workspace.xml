@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c045a939-e8b2-41cf-a76f-691f5136ee98" name="Changes" comment="First iteration (probably also the last) of assignment02 completed">
+    <list default="true" id="c045a939-e8b2-41cf-a76f-691f5136ee98" name="Changes" comment="Uploaded the assignment 03 and the belonging data sheets">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MAL1Workspace/Assignment03/2. Candidate Test 2022 I.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../MAL1Workspace/Assignment03/2. Candidate Test 2022 I.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +75,8 @@
       <workItem from="1739367840810" duration="1112000" />
       <workItem from="1740046444949" duration="2996000" />
       <workItem from="1740408361455" duration="7280000" />
+      <workItem from="1741632242699" duration="1349000" />
+      <workItem from="1741725151581" duration="6446000" />
     </task>
     <task id="LOCAL-00001" summary="Implemented all tasks in MAL1 Assignment 01">
       <option name="closed" value="true" />
@@ -99,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740414509820</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Uploaded the assignment 03 and the belonging data sheets">
+      <option name="closed" value="true" />
+      <created>1741640104213</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1741640104213</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +120,7 @@
     <MESSAGE value="Implemented all tasks in MAL1 Assignment 01" />
     <MESSAGE value="Start assignment02, only prototype available as of now, still need to research further how this Regression stuff works" />
     <MESSAGE value="First iteration (probably also the last) of assignment02 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="First iteration (probably also the last) of assignment02 completed" />
+    <MESSAGE value="Uploaded the assignment 03 and the belonging data sheets" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uploaded the assignment 03 and the belonging data sheets" />
   </component>
 </project>
