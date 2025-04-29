@@ -1,0 +1,674 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"c045a939-e8b2-41cf-a76f-691f5136ee98\" name=\"Changes\" comment=\"Uploaded the assignment 03 and the belonging data sheets\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../MAL1Workspace/Assignment03/2. Candidate Test 2022 I.ipynb\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/../MAL1Workspace/Assignment03/2. Candidate Test 2022 I.ipynb\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$/..\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;Sterup15&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/Sterup15/MAL1Workspace&quot;,\r\n    &quot;accountId&quot;: &quot;f5ce21fa-51f2-4734-9b1f-bd67e39442a6&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 6\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2suUKaMOwgp0uUwHUg5LgpzhqDG\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;C:/Users/DooMz/OneDrive/Skrivebord/Software Engineering Bachelor/4. Semester/MAL1/Assignment01&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\r\n    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\DooMz\\OneDrive\\Skrivebord\\Software Engineering Bachelor\\4. Semester\\MAL1\\Assignment01\\Assignment01\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23339.19\" />\r\n        <option value=\"bundled-python-sdk-0029f7779945-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23339.19\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"c045a939-e8b2-41cf-a76f-691f5136ee98\" name=\"Changes\" comment=\"\" />\r\n      <created>1739304889871</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1739304889871</updated>\r\n      <workItem from=\"1739304890942\" duration=\"3191000\" />\r\n      <workItem from=\"1739367840810\" duration=\"1112000\" />\r\n      <workItem from=\"1740046444949\" duration=\"2996000\" />\r\n      <workItem from=\"1740408361455\" duration=\"7280000\" />\r\n      <workItem from=\"1741632242699\" duration=\"1349000\" />\r\n      <workItem from=\"1741725151581\" duration=\"6446000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Implemented all tasks in MAL1 Assignment 01\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1739368910877</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1739368910877</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Start assignment02, only prototype available as of now, still need to research further how this Regression stuff works\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740048854525</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740048854525</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"First iteration (probably also the last) of assignment02 completed\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740414509820</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740414509820</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Uploaded the assignment 03 and the belonging data sheets\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1741640104213</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1741640104213</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"5\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Implemented all tasks in MAL1 Assignment 01\" />\r\n    <MESSAGE value=\"Start assignment02, only prototype available as of now, still need to research further how this Regression stuff works\" />\r\n    <MESSAGE value=\"First iteration (probably also the last) of assignment02 completed\" />\r\n    <MESSAGE value=\"Uploaded the assignment 03 and the belonging data sheets\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Uploaded the assignment 03 and the belonging data sheets\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 01d536e2aa366b6795df5102214b3437402205c2)
++++ b/.idea/workspace.xml	(date 1744154280080)
+@@ -4,9 +4,9 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="c045a939-e8b2-41cf-a76f-691f5136ee98" name="Changes" comment="Uploaded the assignment 03 and the belonging data sheets">
++    <list default="true" id="c045a939-e8b2-41cf-a76f-691f5136ee98" name="Changes" comment="Finished assignment, although having problems with Random Forest">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../MAL1Workspace/Assignment03/2. Candidate Test 2022 I.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../MAL1Workspace/Assignment03/2. Candidate Test 2022 I.ipynb" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../MAL1Workspace/Assignment05/5. Neural networks I - Sentiment analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../MAL1Workspace/Assignment05/5. Neural networks I - Sentiment analysis.ipynb" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -76,7 +76,10 @@
+       <workItem from="1740046444949" duration="2996000" />
+       <workItem from="1740408361455" duration="7280000" />
+       <workItem from="1741632242699" duration="1349000" />
+-      <workItem from="1741725151581" duration="6446000" />
++      <workItem from="1741725151581" duration="6762000" />
++      <workItem from="1742919365468" duration="12068000" />
++      <workItem from="1742994828980" duration="677000" />
++      <workItem from="1744121612633" duration="1353000" />
+     </task>
+     <task id="LOCAL-00001" summary="Implemented all tasks in MAL1 Assignment 01">
+       <option name="closed" value="true" />
+@@ -110,7 +113,31 @@
+       <option name="project" value="LOCAL" />
+       <updated>1741640104213</updated>
+     </task>
+-    <option name="localTasksCounter" value="5" />
++    <task id="LOCAL-00005" summary="First (And probably last) iteration of Assignment 03 completed">
++      <option name="closed" value="true" />
++      <created>1741731982366</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1741731982366</updated>
++    </task>
++    <task id="LOCAL-00006" summary="Created assignment 04, and started solving it">
++      <option name="closed" value="true" />
++      <created>1742924293230</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1742924293230</updated>
++    </task>
++    <task id="LOCAL-00007" summary="Finished assignment, although having problems with Random Forest">
++      <option name="closed" value="true" />
++      <created>1742995050338</created>
++      <option name="number" value="00007" />
++      <option name="presentableId" value="LOCAL-00007" />
++      <option name="project" value="LOCAL" />
++      <updated>1742995050338</updated>
++    </task>
++    <option name="localTasksCounter" value="8" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -121,6 +148,20 @@
+     <MESSAGE value="Start assignment02, only prototype available as of now, still need to research further how this Regression stuff works" />
+     <MESSAGE value="First iteration (probably also the last) of assignment02 completed" />
+     <MESSAGE value="Uploaded the assignment 03 and the belonging data sheets" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Uploaded the assignment 03 and the belonging data sheets" />
++    <MESSAGE value="First (And probably last) iteration of Assignment 03 completed" />
++    <MESSAGE value="Created assignment 04, and started solving it" />
++    <MESSAGE value="Finished assignment, although having problems with Random Forest" />
++    <option name="LAST_COMMIT_MESSAGE" value="Finished assignment, although having problems with Random Forest" />
++  </component>
++  <component name="XDebuggerManager">
++    <breakpoint-manager>
++      <breakpoints>
++        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
++          <url>notebook://C:/Users/DooMz/OneDrive/Skrivebord/Software Engineering Bachelor/4. Semester/MAL1/MAL1Workspace/Assignment05/5. Neural networks I - Sentiment analysis.ipynb</url>
++          <line>5</line>
++          <option name="timeStamp" value="1" />
++        </line-breakpoint>
++      </breakpoints>
++    </breakpoint-manager>
+   </component>
+ </project>
+\ No newline at end of file
+Index: ../MAL1Workspace/Assignment05/5. Neural networks I - Sentiment analysis.ipynb
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>{\r\n \"cells\": [\r\n  {\r\n   \"cell_type\": \"markdown\",\r\n   \"id\": \"5bc9be56\",\r\n   \"metadata\": {},\r\n   \"source\": [\r\n    \"## Sentiment Analysis\"\r\n   ]\r\n  },\r\n  {\r\n   \"cell_type\": \"markdown\",\r\n   \"id\": \"818b3b52\",\r\n   \"metadata\": {},\r\n   \"source\": [\r\n    \"In this exercise we use the IMDb-dataset, which we will use to perform a sentiment analysis. The code below assumes that the data is placed in the same folder as this notebook. We see that the reviews are loaded as a pandas dataframe, and print the beginning of the first few reviews.\"\r\n   ]\r\n  },\r\n  {\r\n   \"metadata\": {\r\n    \"ExecuteTime\": {\r\n     \"end_time\": \"2025-04-08T08:12:27.104364Z\",\r\n     \"start_time\": \"2025-04-08T08:12:27.097614Z\"\r\n    }\r\n   },\r\n   \"cell_type\": \"code\",\r\n   \"source\": [\r\n    \"import numpy as np\\n\",\r\n    \"import pandas as pd\\n\",\r\n    \"from sklearn.model_selection import train_test_split\\n\",\r\n    \"from sklearn.feature_extraction.text import CountVectorizer\\n\",\r\n    \"from sklearn.neural_network import MLPClassifier\\n\",\r\n    \"from sklearn.metrics import accuracy_score, classification_report, confusion_matrix\"\r\n   ],\r\n   \"id\": \"af6c58300999ffc5\",\r\n   \"outputs\": [],\r\n   \"execution_count\": 8\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"id\": \"67da3bc0\",\r\n   \"metadata\": {\r\n    \"ExecuteTime\": {\r\n     \"end_time\": \"2025-04-08T07:20:27.941351Z\",\r\n     \"start_time\": \"2025-04-08T07:20:27.523432Z\"\r\n    }\r\n   },\r\n   \"source\": [\r\n    \"reviews = pd.read_csv('reviews.txt', header=None)\\n\",\r\n    \"labels = pd.read_csv('labels.txt', header=None)\\n\",\r\n    \"Y = (labels=='positive').astype(np.int_)\\n\",\r\n    \"\\n\",\r\n    \"print(type(reviews))\\n\",\r\n    \"print(reviews.head())\"\r\n   ],\r\n   \"outputs\": [\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"<class 'pandas.core.frame.DataFrame'>\\n\",\r\n      \"                                                   0\\n\",\r\n      \"0  bromwell high is a cartoon comedy . it ran at ...\\n\",\r\n      \"1  story of a man who has unnatural feelings for ...\\n\",\r\n      \"2  homelessness  or houselessness as george carli...\\n\",\r\n      \"3  airport    starts as a brand new luxury    pla...\\n\",\r\n      \"4  brilliant over  acting by lesley ann warren . ...\\n\"\r\n     ]\r\n    }\r\n   ],\r\n   \"execution_count\": 3\r\n  },\r\n  {\r\n   \"cell_type\": \"markdown\",\r\n   \"id\": \"4982b946\",\r\n   \"metadata\": {},\r\n   \"source\": [\r\n    \"**(a)** Split the reviews and labels in test, train and validation sets. The train and validation sets will be used to train your model and tune hyperparameters, the test set will be saved for testing. Use the `CountVectorizer` from `sklearn.feature_extraction.text` to create a Bag-of-Words representation of the reviews. Only use the 10,000 most frequent words (use the `max_features`-parameter of `CountVectorizer`).\"\r\n   ]\r\n  },\r\n  {\r\n   \"metadata\": {\r\n    \"ExecuteTime\": {\r\n     \"end_time\": \"2025-04-08T07:20:33.125033Z\",\r\n     \"start_time\": \"2025-04-08T07:20:28.280552Z\"\r\n    }\r\n   },\r\n   \"cell_type\": \"code\",\r\n   \"source\": [\r\n    \"# Flatten Y to a 1D array\\n\",\r\n    \"Y = Y.values.ravel()\\n\",\r\n    \"\\n\",\r\n    \"# Split the data: 60% train, 20% validation, 20% test\\n\",\r\n    \"X_train_val, X_test, y_train_val, y_test = train_test_split(reviews[0], Y, test_size=0.2, random_state=42)\\n\",\r\n    \"X_train, X_val, y_train, y_val = train_test_split(X_train_val, y_train_val, test_size=0.25, random_state=42)  # 0.25 * 0.8 = 0.2\\n\",\r\n    \"\\n\",\r\n    \"# Initialize CountVectorizer with max 10,000 features\\n\",\r\n    \"vectorizer = CountVectorizer(max_features=10000)\\n\",\r\n    \"\\n\",\r\n    \"# Fit and transform the training data; transform the validation and test data\\n\",\r\n    \"X_train_bow = vectorizer.fit_transform(X_train)\\n\",\r\n    \"X_val_bow = vectorizer.transform(X_val)\\n\",\r\n    \"X_test_bow = vectorizer.transform(X_test)\\n\",\r\n    \"\\n\",\r\n    \"# Optional: Print shape of datasets\\n\",\r\n    \"print(f\\\"Train set shape: {X_train_bow.shape}\\\")\\n\",\r\n    \"print(f\\\"Validation set shape: {X_val_bow.shape}\\\")\\n\",\r\n    \"print(f\\\"Test set shape: {X_test_bow.shape}\\\")\"\r\n   ],\r\n   \"id\": \"c5957748965a5eab\",\r\n   \"outputs\": [\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"Train set shape: (15000, 10000)\\n\",\r\n      \"Validation set shape: (5000, 10000)\\n\",\r\n      \"Test set shape: (5000, 10000)\\n\"\r\n     ]\r\n    }\r\n   ],\r\n   \"execution_count\": 4\r\n  },\r\n  {\r\n   \"cell_type\": \"markdown\",\r\n   \"id\": \"ebf07ee9\",\r\n   \"metadata\": {},\r\n   \"source\": [\r\n    \"**(b)** Explore the representation of the reviews. How is a single word represented? How about a whole review?\"\r\n   ]\r\n  },\r\n  {\r\n   \"metadata\": {\r\n    \"ExecuteTime\": {\r\n     \"end_time\": \"2025-04-08T07:23:55.648275Z\",\r\n     \"start_time\": \"2025-04-08T07:23:54.583758Z\"\r\n    }\r\n   },\r\n   \"cell_type\": \"code\",\r\n   \"source\": [\r\n    \"# Each column in the Bag-of-Words matrix corresponds to a word.\\n\",\r\n    \"# Get the first 10 words from the vectorizer's vocabulary\\n\",\r\n    \"print(\\\"First 10 words in the vocabulary:\\\")\\n\",\r\n    \"print(vectorizer.get_feature_names_out()[:10])\\n\",\r\n    \"\\n\",\r\n    \"# Let's inspect one review from the training set\\n\",\r\n    \"review_example = X_train.iloc[0]\\n\",\r\n    \"print(\\\"\\\\nOriginal review text:\\\")\\n\",\r\n    \"print(review_example)\\n\",\r\n    \"\\n\",\r\n    \"# Convert this review to its Bag-of-Words representation (sparse vector)\\n\",\r\n    \"review_vector = vectorizer.transform([review_example])\\n\",\r\n    \"print(\\\"\\\\nBoW vector (non-zero entries):\\\")\\n\",\r\n    \"print(review_vector)\\n\",\r\n    \"\\n\",\r\n    \"# Display the actual words present in the review according to BoW\\n\",\r\n    \"# Each non-zero index in the vector corresponds to a word used in the review\\n\",\r\n    \"word_indices = review_vector.indices\\n\",\r\n    \"words_in_review = [vectorizer.get_feature_names_out()[i] for i in word_indices]\\n\",\r\n    \"\\n\",\r\n    \"print(\\\"\\\\nWords present in the review (according to BoW):\\\")\\n\",\r\n    \"print(words_in_review)\"\r\n   ],\r\n   \"id\": \"9adb7c33216b65a4\",\r\n   \"outputs\": [\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"First 10 words in the vocabulary:\\n\",\r\n      \"['abandon' 'abandoned' 'abby' 'abc' 'abducted' 'abilities' 'ability'\\n\",\r\n      \" 'able' 'aboard' 'abominable']\\n\",\r\n      \"\\n\",\r\n      \"Original review text:\\n\",\r\n      \"  birth of the beatles   for being a us television movie  released in the fall of     has actually been  so far the best movie which tells the tale of the the four lads from liverpool that revolutionized the music industry and the world . as told by the point of view of former beatle pete best . the performance from the entire cast is excellent but  most especially the performance by stephen mackenna as john lennon and rod culbertson as paul mccartney . the film was produced by a legend of the rock and roll era  mr dick clark . who a year earlier in     had produced another tv movie  that has stood the test of time starring  kurt rusell  in the lead role about another musical legend  elvis  . that movie was directed by an unknown director named  john carpenter  who went on to direct other successful movies such as  halloween    escape from new york   and  the thing  . the same can be said for the director of the  birth of the beatles   mr richard marquand . he went on to direct other theatrical blockbusters such as  star wars return of the jedi    eye of the needle   and  jagged edge  among many . the only other film that tells the story of the fab four that i know of  is back beat which had a theatrical release in     . however  the critics did not care for it  nor did the public  for it did not have a long life span in the theater . birth of the beatles is very charming and simplistic film that gives you the essence of the beginning of the legend and the struggles  hardships they went thru and ends at there pinnacle of success when they arrive in nyc and appear in the ed sullivan show in     . i highly recommend this film .  \\n\",\r\n      \"\\n\",\r\n      \"BoW vector (non-zero entries):\\n\",\r\n      \"  (0, 13)\\t1\\n\",\r\n      \"  (0, 90)\\t1\\n\",\r\n      \"  (0, 305)\\t1\\n\",\r\n      \"  (0, 317)\\t1\\n\",\r\n      \"  (0, 322)\\t9\\n\",\r\n      \"  (0, 364)\\t2\\n\",\r\n      \"  (0, 408)\\t1\\n\",\r\n      \"  (0, 470)\\t1\\n\",\r\n      \"  (0, 492)\\t5\\n\",\r\n      \"  (0, 540)\\t1\\n\",\r\n      \"  (0, 646)\\t1\\n\",\r\n      \"  (0, 740)\\t1\\n\",\r\n      \"  (0, 748)\\t1\\n\",\r\n      \"  (0, 751)\\t3\\n\",\r\n      \"  (0, 770)\\t1\\n\",\r\n      \"  (0, 782)\\t1\\n\",\r\n      \"  (0, 794)\\t1\\n\",\r\n      \"  (0, 838)\\t2\\n\",\r\n      \"  (0, 884)\\t3\\n\",\r\n      \"  (0, 934)\\t1\\n\",\r\n      \"  (0, 1193)\\t1\\n\",\r\n      \"  (0, 1206)\\t4\\n\",\r\n      \"  (0, 1249)\\t1\\n\",\r\n      \"  (0, 1293)\\t1\\n\",\r\n      \"  (0, 1317)\\t1\\n\",\r\n      \"  :\\t:\\n\",\r\n      \"  (0, 8959)\\t1\\n\",\r\n      \"  (0, 8963)\\t2\\n\",\r\n      \"  (0, 8979)\\t1\\n\",\r\n      \"  (0, 8985)\\t2\\n\",\r\n      \"  (0, 8990)\\t1\\n\",\r\n      \"  (0, 9000)\\t1\\n\",\r\n      \"  (0, 9039)\\t1\\n\",\r\n      \"  (0, 9064)\\t1\\n\",\r\n      \"  (0, 9086)\\t2\\n\",\r\n      \"  (0, 9098)\\t1\\n\",\r\n      \"  (0, 9291)\\t1\\n\",\r\n      \"  (0, 9403)\\t1\\n\",\r\n      \"  (0, 9455)\\t1\\n\",\r\n      \"  (0, 9531)\\t1\\n\",\r\n      \"  (0, 9553)\\t1\\n\",\r\n      \"  (0, 9681)\\t1\\n\",\r\n      \"  (0, 9682)\\t2\\n\",\r\n      \"  (0, 9749)\\t3\\n\",\r\n      \"  (0, 9769)\\t1\\n\",\r\n      \"  (0, 9775)\\t2\\n\",\r\n      \"  (0, 9785)\\t2\\n\",\r\n      \"  (0, 9897)\\t1\\n\",\r\n      \"  (0, 9955)\\t1\\n\",\r\n      \"  (0, 9969)\\t1\\n\",\r\n      \"  (0, 9970)\\t1\\n\",\r\n      \"\\n\",\r\n      \"Words present in the review (according to BoW):\\n\",\r\n      \"['about', 'actually', 'among', 'an', 'and', 'another', 'appear', 'arrive', 'as', 'at', 'back', 'be', 'beat', 'beatles', 'been', 'beginning', 'being', 'best', 'birth', 'blockbusters', 'but', 'by', 'can', 'care', 'carpenter', 'cast', 'charming', 'clark', 'critics', 'dick', 'did', 'direct', 'directed', 'director', 'earlier', 'ed', 'edge', 'elvis', 'ends', 'entire', 'era', 'escape', 'especially', 'essence', 'excellent', 'eye', 'fall', 'far', 'film', 'for', 'former', 'four', 'from', 'gives', 'had', 'halloween', 'hardships', 'has', 'have', 'he', 'highly', 'however', 'in', 'industry', 'is', 'it', 'jedi', 'john', 'know', 'kurt', 'lead', 'legend', 'lennon', 'life', 'long', 'many', 'most', 'movie', 'movies', 'mr', 'music', 'musical', 'named', 'needle', 'new', 'nor', 'not', 'nyc', 'of', 'on', 'only', 'other', 'paul', 'performance', 'pete', 'point', 'produced', 'public', 'recommend', 'release', 'released', 'return', 'richard', 'rock', 'rod', 'role', 'roll', 'said', 'same', 'show', 'simplistic', 'so', 'span', 'star', 'starring', 'stephen', 'stood', 'story', 'struggles', 'success', 'successful', 'such', 'sullivan', 'tale', 'television', 'tells', 'test', 'that', 'the', 'theater', 'theatrical', 'there', 'they', 'thing', 'this', 'thru', 'time', 'to', 'told', 'tv', 'unknown', 'us', 'very', 'view', 'wars', 'was', 'went', 'when', 'which', 'who', 'world', 'year', 'york', 'you']\\n\"\r\n     ]\r\n    }\r\n   ],\r\n   \"execution_count\": 5\r\n  },\r\n  {\r\n   \"cell_type\": \"markdown\",\r\n   \"id\": \"c2638fce\",\r\n   \"metadata\": {},\r\n   \"source\": [\r\n    \"**(c)** Train a neural network with a single hidden layer on the dataset, tuning the relevant hyperparameters to optimize accuracy. \"\r\n   ]\r\n  },\r\n  {\r\n   \"metadata\": {\r\n    \"ExecuteTime\": {\r\n     \"end_time\": \"2025-04-08T08:00:09.742278Z\",\r\n     \"start_time\": \"2025-04-08T07:41:32.694314Z\"\r\n    }\r\n   },\r\n   \"cell_type\": \"code\",\r\n   \"source\": [\r\n    \"# Define different hyperparameter combinations to try\\n\",\r\n    \"hidden_layer_sizes = [(64,), (128,), (256,)]\\n\",\r\n    \"alphas = [0.0001, 0.001, 0.01]\\n\",\r\n    \"learning_rates = ['constant', 'adaptive']\\n\",\r\n    \"\\n\",\r\n    \"best_model = None\\n\",\r\n    \"best_val_acc = 0\\n\",\r\n    \"results = []\\n\",\r\n    \"\\n\",\r\n    \"# Try all combinations of hyperparameters\\n\",\r\n    \"for size in hidden_layer_sizes:\\n\",\r\n    \"    for alpha in alphas:\\n\",\r\n    \"        for lr in learning_rates:\\n\",\r\n    \"            print(f\\\"Training model: hidden_layer={size}, alpha={alpha}, learning_rate={lr}\\\")\\n\",\r\n    \"            clf = MLPClassifier(hidden_layer_sizes=size,\\n\",\r\n    \"                                alpha=alpha,\\n\",\r\n    \"                                learning_rate=lr,\\n\",\r\n    \"                                max_iter=50,  # Increase this for more training\\n\",\r\n    \"                                random_state=42,\\n\",\r\n    \"                                verbose=False)\\n\",\r\n    \"            clf.fit(X_train_bow, y_train)\\n\",\r\n    \"            val_preds = clf.predict(X_val_bow)\\n\",\r\n    \"            val_acc = accuracy_score(y_val, val_preds)\\n\",\r\n    \"            results.append((size, alpha, lr, val_acc))\\n\",\r\n    \"            print(f\\\"Validation Accuracy: {val_acc:.4f}\\\")\\n\",\r\n    \"\\n\",\r\n    \"            # Keep track of best model\\n\",\r\n    \"            if val_acc > best_val_acc:\\n\",\r\n    \"                best_val_acc = val_acc\\n\",\r\n    \"                best_model = clf\\n\",\r\n    \"\\n\",\r\n    \"# Show the best result\\n\",\r\n    \"print(\\\"\\\\nBest Model Parameters:\\\")\\n\",\r\n    \"print(best_model)\\n\",\r\n    \"\\n\",\r\n    \"# Evaluate best model on test set\\n\",\r\n    \"test_preds = best_model.predict(X_test_bow)\\n\",\r\n    \"test_acc = accuracy_score(y_test, test_preds)\\n\",\r\n    \"print(f\\\"\\\\nTest Accuracy: {test_acc:.4f}\\\")\\n\"\r\n   ],\r\n   \"id\": \"f9923b713e79502d\",\r\n   \"outputs\": [\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"Training model: hidden_layer=(64,), alpha=0.0001, learning_rate=constant\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"name\": \"stderr\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"C:\\\\Users\\\\doomz\\\\anaconda3\\\\Lib\\\\site-packages\\\\sklearn\\\\neural_network\\\\_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (10) reached and the optimization hasn't converged yet.\\n\",\r\n      \"  warnings.warn(\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"Validation Accuracy: 0.8792\\n\",\r\n      \"Training model: hidden_layer=(64,), alpha=0.0001, learning_rate=adaptive\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"name\": \"stderr\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"C:\\\\Users\\\\doomz\\\\anaconda3\\\\Lib\\\\site-packages\\\\sklearn\\\\neural_network\\\\_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (10) reached and the optimization hasn't converged yet.\\n\",\r\n      \"  warnings.warn(\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"Validation Accuracy: 0.8792\\n\",\r\n      \"Training model: hidden_layer=(64,), alpha=0.001, learning_rate=constant\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"name\": \"stderr\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"C:\\\\Users\\\\doomz\\\\anaconda3\\\\Lib\\\\site-packages\\\\sklearn\\\\neural_network\\\\_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (10) reached and the optimization hasn't converged yet.\\n\",\r\n      \"  warnings.warn(\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"Validation Accuracy: 0.8812\\n\",\r\n      \"Training model: hidden_layer=(64,), alpha=0.001, learning_rate=adaptive\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"name\": \"stderr\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"C:\\\\Users\\\\doomz\\\\anaconda3\\\\Lib\\\\site-packages\\\\sklearn\\\\neural_network\\\\_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (10) reached and the optimization hasn't converged yet.\\n\",\r\n      \"  warnings.warn(\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"Validation Accuracy: 0.8812\\n\",\r\n      \"Training model: hidden_layer=(64,), alpha=0.01, learning_rate=constant\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"name\": \"stderr\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"C:\\\\Users\\\\doomz\\\\anaconda3\\\\Lib\\\\site-packages\\\\sklearn\\\\neural_network\\\\_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (10) reached and the optimization hasn't converged yet.\\n\",\r\n      \"  warnings.warn(\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"Validation Accuracy: 0.8760\\n\",\r\n      \"Training model: hidden_layer=(64,), alpha=0.01, learning_rate=adaptive\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"name\": \"stderr\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"C:\\\\Users\\\\doomz\\\\anaconda3\\\\Lib\\\\site-packages\\\\sklearn\\\\neural_network\\\\_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (10) reached and the optimization hasn't converged yet.\\n\",\r\n      \"  warnings.warn(\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"Validation Accuracy: 0.8760\\n\",\r\n      \"Training model: hidden_layer=(128,), alpha=0.0001, learning_rate=constant\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"name\": \"stderr\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"C:\\\\Users\\\\doomz\\\\anaconda3\\\\Lib\\\\site-packages\\\\sklearn\\\\neural_network\\\\_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (10) reached and the optimization hasn't converged yet.\\n\",\r\n      \"  warnings.warn(\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"Validation Accuracy: 0.8814\\n\",\r\n      \"Training model: hidden_layer=(128,), alpha=0.0001, learning_rate=adaptive\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"name\": \"stderr\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"C:\\\\Users\\\\doomz\\\\anaconda3\\\\Lib\\\\site-packages\\\\sklearn\\\\neural_network\\\\_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (10) reached and the optimization hasn't converged yet.\\n\",\r\n      \"  warnings.warn(\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"Validation Accuracy: 0.8814\\n\",\r\n      \"Training model: hidden_layer=(128,), alpha=0.001, learning_rate=constant\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"name\": \"stderr\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"C:\\\\Users\\\\doomz\\\\anaconda3\\\\Lib\\\\site-packages\\\\sklearn\\\\neural_network\\\\_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (10) reached and the optimization hasn't converged yet.\\n\",\r\n      \"  warnings.warn(\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"Validation Accuracy: 0.8784\\n\",\r\n      \"Training model: hidden_layer=(128,), alpha=0.001, learning_rate=adaptive\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"name\": \"stderr\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"C:\\\\Users\\\\doomz\\\\anaconda3\\\\Lib\\\\site-packages\\\\sklearn\\\\neural_network\\\\_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (10) reached and the optimization hasn't converged yet.\\n\",\r\n      \"  warnings.warn(\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"Validation Accuracy: 0.8784\\n\",\r\n      \"Training model: hidden_layer=(128,), alpha=0.01, learning_rate=constant\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"name\": \"stderr\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"C:\\\\Users\\\\doomz\\\\anaconda3\\\\Lib\\\\site-packages\\\\sklearn\\\\neural_network\\\\_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (10) reached and the optimization hasn't converged yet.\\n\",\r\n      \"  warnings.warn(\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"Validation Accuracy: 0.8796\\n\",\r\n      \"Training model: hidden_layer=(128,), alpha=0.01, learning_rate=adaptive\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"name\": \"stderr\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"C:\\\\Users\\\\doomz\\\\anaconda3\\\\Lib\\\\site-packages\\\\sklearn\\\\neural_network\\\\_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (10) reached and the optimization hasn't converged yet.\\n\",\r\n      \"  warnings.warn(\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"Validation Accuracy: 0.8796\\n\",\r\n      \"Training model: hidden_layer=(256,), alpha=0.0001, learning_rate=constant\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"name\": \"stderr\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"C:\\\\Users\\\\doomz\\\\anaconda3\\\\Lib\\\\site-packages\\\\sklearn\\\\neural_network\\\\_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (10) reached and the optimization hasn't converged yet.\\n\",\r\n      \"  warnings.warn(\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"Validation Accuracy: 0.8870\\n\",\r\n      \"Training model: hidden_layer=(256,), alpha=0.0001, learning_rate=adaptive\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"name\": \"stderr\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"C:\\\\Users\\\\doomz\\\\anaconda3\\\\Lib\\\\site-packages\\\\sklearn\\\\neural_network\\\\_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (10) reached and the optimization hasn't converged yet.\\n\",\r\n      \"  warnings.warn(\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"Validation Accuracy: 0.8870\\n\",\r\n      \"Training model: hidden_layer=(256,), alpha=0.001, learning_rate=constant\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"name\": \"stderr\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"C:\\\\Users\\\\doomz\\\\anaconda3\\\\Lib\\\\site-packages\\\\sklearn\\\\neural_network\\\\_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (10) reached and the optimization hasn't converged yet.\\n\",\r\n      \"  warnings.warn(\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"Validation Accuracy: 0.8852\\n\",\r\n      \"Training model: hidden_layer=(256,), alpha=0.001, learning_rate=adaptive\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"name\": \"stderr\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"C:\\\\Users\\\\doomz\\\\anaconda3\\\\Lib\\\\site-packages\\\\sklearn\\\\neural_network\\\\_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (10) reached and the optimization hasn't converged yet.\\n\",\r\n      \"  warnings.warn(\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"Validation Accuracy: 0.8852\\n\",\r\n      \"Training model: hidden_layer=(256,), alpha=0.01, learning_rate=constant\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"name\": \"stderr\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"C:\\\\Users\\\\doomz\\\\anaconda3\\\\Lib\\\\site-packages\\\\sklearn\\\\neural_network\\\\_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (10) reached and the optimization hasn't converged yet.\\n\",\r\n      \"  warnings.warn(\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"Validation Accuracy: 0.8816\\n\",\r\n      \"Training model: hidden_layer=(256,), alpha=0.01, learning_rate=adaptive\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"name\": \"stderr\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"C:\\\\Users\\\\doomz\\\\anaconda3\\\\Lib\\\\site-packages\\\\sklearn\\\\neural_network\\\\_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (10) reached and the optimization hasn't converged yet.\\n\",\r\n      \"  warnings.warn(\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"Validation Accuracy: 0.8816\\n\",\r\n      \"\\n\",\r\n      \"Best Model Parameters:\\n\",\r\n      \"MLPClassifier(hidden_layer_sizes=(256,), max_iter=10, random_state=42)\\n\",\r\n      \"\\n\",\r\n      \"Test Accuracy: 0.8720\\n\"\r\n     ]\r\n    }\r\n   ],\r\n   \"execution_count\": 7\r\n  },\r\n  {\r\n   \"cell_type\": \"markdown\",\r\n   \"id\": \"1fd327a6\",\r\n   \"metadata\": {},\r\n   \"source\": [\r\n    \"**(d)** Test your sentiment-classifier on the test set.\"\r\n   ]\r\n  },\r\n  {\r\n   \"metadata\": {\r\n    \"ExecuteTime\": {\r\n     \"end_time\": \"2025-04-08T08:12:38.990662Z\",\r\n     \"start_time\": \"2025-04-08T08:12:38.721431Z\"\r\n    }\r\n   },\r\n   \"cell_type\": \"code\",\r\n   \"source\": [\r\n    \"# Predict the labels for the test set\\n\",\r\n    \"y_test_pred = best_model.predict(X_test_bow)\\n\",\r\n    \"\\n\",\r\n    \"# Compute accuracy\\n\",\r\n    \"test_accuracy = accuracy_score(y_test, y_test_pred)\\n\",\r\n    \"print(f\\\"Test Accuracy: {test_accuracy:.4f}\\\")\\n\",\r\n    \"\\n\",\r\n    \"# Detailed performance report\\n\",\r\n    \"print(\\\"\\\\nClassification Report:\\\")\\n\",\r\n    \"print(classification_report(y_test, y_test_pred, target_names=['Negative', 'Positive']))\\n\",\r\n    \"\\n\",\r\n    \"# Confusion matrix\\n\",\r\n    \"print(\\\"Confusion Matrix:\\\")\\n\",\r\n    \"print(confusion_matrix(y_test, y_test_pred))\\n\"\r\n   ],\r\n   \"id\": \"6ce4fc95d37b0ac7\",\r\n   \"outputs\": [\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"Test Accuracy: 0.8720\\n\",\r\n      \"\\n\",\r\n      \"Classification Report:\\n\",\r\n      \"              precision    recall  f1-score   support\\n\",\r\n      \"\\n\",\r\n      \"    Negative       0.87      0.87      0.87      2492\\n\",\r\n      \"    Positive       0.87      0.87      0.87      2508\\n\",\r\n      \"\\n\",\r\n      \"    accuracy                           0.87      5000\\n\",\r\n      \"   macro avg       0.87      0.87      0.87      5000\\n\",\r\n      \"weighted avg       0.87      0.87      0.87      5000\\n\",\r\n      \"\\n\",\r\n      \"Confusion Matrix:\\n\",\r\n      \"[[2174  318]\\n\",\r\n      \" [ 322 2186]]\\n\"\r\n     ]\r\n    }\r\n   ],\r\n   \"execution_count\": 9\r\n  },\r\n  {\r\n   \"cell_type\": \"markdown\",\r\n   \"id\": \"fd44ee62\",\r\n   \"metadata\": {},\r\n   \"source\": [\r\n    \"**(e)** Use the classifier to classify a few sentences you write yourselves. \"\r\n   ]\r\n  },\r\n  {\r\n   \"metadata\": {\r\n    \"ExecuteTime\": {\r\n     \"end_time\": \"2025-04-08T08:13:44.635152Z\",\r\n     \"start_time\": \"2025-04-08T08:13:44.627038Z\"\r\n    }\r\n   },\r\n   \"cell_type\": \"code\",\r\n   \"source\": [\r\n    \"# Example custom sentences\\n\",\r\n    \"custom_sentences = [\\n\",\r\n    \"    \\\"I absolutely loved this movie! It was fantastic.\\\",\\n\",\r\n    \"    \\\"What a waste of time. The plot was boring and predictable.\\\",\\n\",\r\n    \"    \\\"It was okay, not great but not terrible either.\\\",\\n\",\r\n    \"    \\\"The acting was brilliant, but the story made no sense.\\\",\\n\",\r\n    \"    \\\"Terrible. I walked out halfway through.\\\"\\n\",\r\n    \"]\\n\",\r\n    \"\\n\",\r\n    \"# Transform custom sentences to Bag-of-Words format using the trained vectorizer\\n\",\r\n    \"custom_bow = vectorizer.transform(custom_sentences)\\n\",\r\n    \"\\n\",\r\n    \"# Predict sentiments\\n\",\r\n    \"predictions = best_model.predict(custom_bow)\\n\",\r\n    \"\\n\",\r\n    \"# Convert binary predictions back to labels\\n\",\r\n    \"labels = ['Negative', 'Positive']\\n\",\r\n    \"for sentence, pred in zip(custom_sentences, predictions):\\n\",\r\n    \"    print(f\\\"Sentence: {sentence}\\\\nPredicted Sentiment: {labels[pred]}\\\\n\\\")\\n\"\r\n   ],\r\n   \"id\": \"d22a516259ed96d6\",\r\n   \"outputs\": [\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"Sentence: I absolutely loved this movie! It was fantastic.\\n\",\r\n      \"Predicted Sentiment: Positive\\n\",\r\n      \"\\n\",\r\n      \"Sentence: What a waste of time. The plot was boring and predictable.\\n\",\r\n      \"Predicted Sentiment: Negative\\n\",\r\n      \"\\n\",\r\n      \"Sentence: It was okay, not great but not terrible either.\\n\",\r\n      \"Predicted Sentiment: Negative\\n\",\r\n      \"\\n\",\r\n      \"Sentence: The acting was brilliant, but the story made no sense.\\n\",\r\n      \"Predicted Sentiment: Positive\\n\",\r\n      \"\\n\",\r\n      \"Sentence: Terrible. I walked out halfway through.\\n\",\r\n      \"Predicted Sentiment: Negative\\n\",\r\n      \"\\n\"\r\n     ]\r\n    }\r\n   ],\r\n   \"execution_count\": 10\r\n  }\r\n ],\r\n \"metadata\": {\r\n  \"kernelspec\": {\r\n   \"display_name\": \"Python 3 (ipykernel)\",\r\n   \"language\": \"python\",\r\n   \"name\": \"python3\"\r\n  },\r\n  \"language_info\": {\r\n   \"codemirror_mode\": {\r\n    \"name\": \"ipython\",\r\n    \"version\": 3\r\n   },\r\n   \"file_extension\": \".py\",\r\n   \"mimetype\": \"text/x-python\",\r\n   \"name\": \"python\",\r\n   \"nbconvert_exporter\": \"python\",\r\n   \"pygments_lexer\": \"ipython3\",\r\n   \"version\": \"3.9.12\"\r\n  }\r\n },\r\n \"nbformat\": 4,\r\n \"nbformat_minor\": 5\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../MAL1Workspace/Assignment05/5. Neural networks I - Sentiment analysis.ipynb b/../MAL1Workspace/Assignment05/5. Neural networks I - Sentiment analysis.ipynb
+--- a/../MAL1Workspace/Assignment05/5. Neural networks I - Sentiment analysis.ipynb	(revision 01d536e2aa366b6795df5102214b3437402205c2)
++++ b/../MAL1Workspace/Assignment05/5. Neural networks I - Sentiment analysis.ipynb	(date 1744154280010)
+@@ -19,8 +19,8 @@
+   {
+    "metadata": {
+     "ExecuteTime": {
+-     "end_time": "2025-04-08T08:12:27.104364Z",
+-     "start_time": "2025-04-08T08:12:27.097614Z"
++     "end_time": "2025-04-08T14:14:51.965092Z",
++     "start_time": "2025-04-08T14:14:51.960870Z"
+     }
+    },
+    "cell_type": "code",
+@@ -34,15 +34,15 @@
+    ],
+    "id": "af6c58300999ffc5",
+    "outputs": [],
+-   "execution_count": 8
++   "execution_count": 2
+   },
+   {
+    "cell_type": "code",
+    "id": "67da3bc0",
+    "metadata": {
+     "ExecuteTime": {
+-     "end_time": "2025-04-08T07:20:27.941351Z",
+-     "start_time": "2025-04-08T07:20:27.523432Z"
++     "end_time": "2025-04-08T14:14:52.386777Z",
++     "start_time": "2025-04-08T14:14:51.993636Z"
+     }
+    },
+    "source": [
+@@ -81,8 +81,8 @@
+   {
+    "metadata": {
+     "ExecuteTime": {
+-     "end_time": "2025-04-08T07:20:33.125033Z",
+-     "start_time": "2025-04-08T07:20:28.280552Z"
++     "end_time": "2025-04-08T14:14:56.389404Z",
++     "start_time": "2025-04-08T14:14:52.513497Z"
+     }
+    },
+    "cell_type": "code",
+@@ -132,8 +132,8 @@
+   {
+    "metadata": {
+     "ExecuteTime": {
+-     "end_time": "2025-04-08T07:23:55.648275Z",
+-     "start_time": "2025-04-08T07:23:54.583758Z"
++     "end_time": "2025-04-08T14:14:57.110178Z",
++     "start_time": "2025-04-08T14:14:56.471412Z"
+     }
+    },
+    "cell_type": "code",
+@@ -175,57 +175,60 @@
+       "  birth of the beatles   for being a us television movie  released in the fall of     has actually been  so far the best movie which tells the tale of the the four lads from liverpool that revolutionized the music industry and the world . as told by the point of view of former beatle pete best . the performance from the entire cast is excellent but  most especially the performance by stephen mackenna as john lennon and rod culbertson as paul mccartney . the film was produced by a legend of the rock and roll era  mr dick clark . who a year earlier in     had produced another tv movie  that has stood the test of time starring  kurt rusell  in the lead role about another musical legend  elvis  . that movie was directed by an unknown director named  john carpenter  who went on to direct other successful movies such as  halloween    escape from new york   and  the thing  . the same can be said for the director of the  birth of the beatles   mr richard marquand . he went on to direct other theatrical blockbusters such as  star wars return of the jedi    eye of the needle   and  jagged edge  among many . the only other film that tells the story of the fab four that i know of  is back beat which had a theatrical release in     . however  the critics did not care for it  nor did the public  for it did not have a long life span in the theater . birth of the beatles is very charming and simplistic film that gives you the essence of the beginning of the legend and the struggles  hardships they went thru and ends at there pinnacle of success when they arrive in nyc and appear in the ed sullivan show in     . i highly recommend this film .  \n",
+       "\n",
+       "BoW vector (non-zero entries):\n",
++      "<Compressed Sparse Row sparse matrix of dtype 'int64'\n",
++      "\twith 154 stored elements and shape (1, 10000)>\n",
++      "  Coords\tValues\n",
+       "  (0, 13)\t1\n",
+       "  (0, 90)\t1\n",
+-      "  (0, 305)\t1\n",
+-      "  (0, 317)\t1\n",
+-      "  (0, 322)\t9\n",
+-      "  (0, 364)\t2\n",
+-      "  (0, 408)\t1\n",
+-      "  (0, 470)\t1\n",
+-      "  (0, 492)\t5\n",
+-      "  (0, 540)\t1\n",
+-      "  (0, 646)\t1\n",
+-      "  (0, 740)\t1\n",
+-      "  (0, 748)\t1\n",
+-      "  (0, 751)\t3\n",
+-      "  (0, 770)\t1\n",
+-      "  (0, 782)\t1\n",
+-      "  (0, 794)\t1\n",
+-      "  (0, 838)\t2\n",
+-      "  (0, 884)\t3\n",
+-      "  (0, 934)\t1\n",
+-      "  (0, 1193)\t1\n",
+-      "  (0, 1206)\t4\n",
+-      "  (0, 1249)\t1\n",
++      "  (0, 306)\t1\n",
++      "  (0, 318)\t1\n",
++      "  (0, 323)\t9\n",
++      "  (0, 365)\t2\n",
++      "  (0, 409)\t1\n",
++      "  (0, 471)\t1\n",
++      "  (0, 493)\t5\n",
++      "  (0, 541)\t1\n",
++      "  (0, 647)\t1\n",
++      "  (0, 744)\t1\n",
++      "  (0, 752)\t1\n",
++      "  (0, 755)\t3\n",
++      "  (0, 774)\t1\n",
++      "  (0, 786)\t1\n",
++      "  (0, 798)\t1\n",
++      "  (0, 842)\t2\n",
++      "  (0, 887)\t3\n",
++      "  (0, 936)\t1\n",
++      "  (0, 1194)\t1\n",
++      "  (0, 1207)\t4\n",
++      "  (0, 1248)\t1\n",
+       "  (0, 1293)\t1\n",
+       "  (0, 1317)\t1\n",
+       "  :\t:\n",
+-      "  (0, 8959)\t1\n",
+-      "  (0, 8963)\t2\n",
+-      "  (0, 8979)\t1\n",
+-      "  (0, 8985)\t2\n",
+-      "  (0, 8990)\t1\n",
+-      "  (0, 9000)\t1\n",
+-      "  (0, 9039)\t1\n",
+-      "  (0, 9064)\t1\n",
+-      "  (0, 9086)\t2\n",
+-      "  (0, 9098)\t1\n",
+-      "  (0, 9291)\t1\n",
+-      "  (0, 9403)\t1\n",
+-      "  (0, 9455)\t1\n",
+-      "  (0, 9531)\t1\n",
+-      "  (0, 9553)\t1\n",
+-      "  (0, 9681)\t1\n",
+-      "  (0, 9682)\t2\n",
+-      "  (0, 9749)\t3\n",
+-      "  (0, 9769)\t1\n",
+-      "  (0, 9775)\t2\n",
+-      "  (0, 9785)\t2\n",
++      "  (0, 8962)\t1\n",
++      "  (0, 8966)\t2\n",
++      "  (0, 8982)\t1\n",
++      "  (0, 8988)\t2\n",
++      "  (0, 8993)\t1\n",
++      "  (0, 9003)\t1\n",
++      "  (0, 9042)\t1\n",
++      "  (0, 9066)\t1\n",
++      "  (0, 9088)\t2\n",
++      "  (0, 9100)\t1\n",
++      "  (0, 9295)\t1\n",
++      "  (0, 9408)\t1\n",
++      "  (0, 9460)\t1\n",
++      "  (0, 9535)\t1\n",
++      "  (0, 9557)\t1\n",
++      "  (0, 9684)\t1\n",
++      "  (0, 9685)\t2\n",
++      "  (0, 9751)\t3\n",
++      "  (0, 9770)\t1\n",
++      "  (0, 9776)\t2\n",
++      "  (0, 9786)\t2\n",
+       "  (0, 9897)\t1\n",
+-      "  (0, 9955)\t1\n",
++      "  (0, 9954)\t1\n",
++      "  (0, 9968)\t1\n",
+       "  (0, 9969)\t1\n",
+-      "  (0, 9970)\t1\n",
+       "\n",
+       "Words present in the review (according to BoW):\n",
+       "['about', 'actually', 'among', 'an', 'and', 'another', 'appear', 'arrive', 'as', 'at', 'back', 'be', 'beat', 'beatles', 'been', 'beginning', 'being', 'best', 'birth', 'blockbusters', 'but', 'by', 'can', 'care', 'carpenter', 'cast', 'charming', 'clark', 'critics', 'dick', 'did', 'direct', 'directed', 'director', 'earlier', 'ed', 'edge', 'elvis', 'ends', 'entire', 'era', 'escape', 'especially', 'essence', 'excellent', 'eye', 'fall', 'far', 'film', 'for', 'former', 'four', 'from', 'gives', 'had', 'halloween', 'hardships', 'has', 'have', 'he', 'highly', 'however', 'in', 'industry', 'is', 'it', 'jedi', 'john', 'know', 'kurt', 'lead', 'legend', 'lennon', 'life', 'long', 'many', 'most', 'movie', 'movies', 'mr', 'music', 'musical', 'named', 'needle', 'new', 'nor', 'not', 'nyc', 'of', 'on', 'only', 'other', 'paul', 'performance', 'pete', 'point', 'produced', 'public', 'recommend', 'release', 'released', 'return', 'richard', 'rock', 'rod', 'role', 'roll', 'said', 'same', 'show', 'simplistic', 'so', 'span', 'star', 'starring', 'stephen', 'stood', 'story', 'struggles', 'success', 'successful', 'such', 'sullivan', 'tale', 'television', 'tells', 'test', 'that', 'the', 'theater', 'theatrical', 'there', 'they', 'thing', 'this', 'thru', 'time', 'to', 'told', 'tv', 'unknown', 'us', 'very', 'view', 'wars', 'was', 'went', 'when', 'which', 'who', 'world', 'year', 'york', 'you']\n"
+@@ -245,8 +248,8 @@
+   {
+    "metadata": {
+     "ExecuteTime": {
+-     "end_time": "2025-04-08T08:00:09.742278Z",
+-     "start_time": "2025-04-08T07:41:32.694314Z"
++     "end_time": "2025-04-08T14:56:02.856656Z",
++     "start_time": "2025-04-08T14:14:57.129992Z"
+     }
+    },
+    "cell_type": "code",
+@@ -297,303 +300,52 @@
+      "name": "stdout",
+      "output_type": "stream",
+      "text": [
+-      "Training model: hidden_layer=(64,), alpha=0.0001, learning_rate=constant\n"
+-     ]
+-    },
+-    {
+-     "name": "stderr",
+-     "output_type": "stream",
+-     "text": [
+-      "C:\\Users\\doomz\\anaconda3\\Lib\\site-packages\\sklearn\\neural_network\\_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (10) reached and the optimization hasn't converged yet.\n",
+-      "  warnings.warn(\n"
+-     ]
+-    },
+-    {
+-     "name": "stdout",
+-     "output_type": "stream",
+-     "text": [
+-      "Validation Accuracy: 0.8792\n",
+-      "Training model: hidden_layer=(64,), alpha=0.0001, learning_rate=adaptive\n"
+-     ]
+-    },
+-    {
+-     "name": "stderr",
+-     "output_type": "stream",
+-     "text": [
+-      "C:\\Users\\doomz\\anaconda3\\Lib\\site-packages\\sklearn\\neural_network\\_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (10) reached and the optimization hasn't converged yet.\n",
+-      "  warnings.warn(\n"
+-     ]
+-    },
+-    {
+-     "name": "stdout",
+-     "output_type": "stream",
+-     "text": [
+-      "Validation Accuracy: 0.8792\n",
+-      "Training model: hidden_layer=(64,), alpha=0.001, learning_rate=constant\n"
+-     ]
+-    },
+-    {
+-     "name": "stderr",
+-     "output_type": "stream",
+-     "text": [
+-      "C:\\Users\\doomz\\anaconda3\\Lib\\site-packages\\sklearn\\neural_network\\_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (10) reached and the optimization hasn't converged yet.\n",
+-      "  warnings.warn(\n"
+-     ]
+-    },
+-    {
+-     "name": "stdout",
+-     "output_type": "stream",
+-     "text": [
+-      "Validation Accuracy: 0.8812\n",
+-      "Training model: hidden_layer=(64,), alpha=0.001, learning_rate=adaptive\n"
+-     ]
+-    },
+-    {
+-     "name": "stderr",
+-     "output_type": "stream",
+-     "text": [
+-      "C:\\Users\\doomz\\anaconda3\\Lib\\site-packages\\sklearn\\neural_network\\_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (10) reached and the optimization hasn't converged yet.\n",
+-      "  warnings.warn(\n"
+-     ]
+-    },
+-    {
+-     "name": "stdout",
+-     "output_type": "stream",
+-     "text": [
+-      "Validation Accuracy: 0.8812\n",
+-      "Training model: hidden_layer=(64,), alpha=0.01, learning_rate=constant\n"
+-     ]
+-    },
+-    {
+-     "name": "stderr",
+-     "output_type": "stream",
+-     "text": [
+-      "C:\\Users\\doomz\\anaconda3\\Lib\\site-packages\\sklearn\\neural_network\\_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (10) reached and the optimization hasn't converged yet.\n",
+-      "  warnings.warn(\n"
+-     ]
+-    },
+-    {
+-     "name": "stdout",
+-     "output_type": "stream",
+-     "text": [
+-      "Validation Accuracy: 0.8760\n",
+-      "Training model: hidden_layer=(64,), alpha=0.01, learning_rate=adaptive\n"
+-     ]
+-    },
+-    {
+-     "name": "stderr",
+-     "output_type": "stream",
+-     "text": [
+-      "C:\\Users\\doomz\\anaconda3\\Lib\\site-packages\\sklearn\\neural_network\\_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (10) reached and the optimization hasn't converged yet.\n",
+-      "  warnings.warn(\n"
+-     ]
+-    },
+-    {
+-     "name": "stdout",
+-     "output_type": "stream",
+-     "text": [
+-      "Validation Accuracy: 0.8760\n",
+-      "Training model: hidden_layer=(128,), alpha=0.0001, learning_rate=constant\n"
+-     ]
+-    },
+-    {
+-     "name": "stderr",
+-     "output_type": "stream",
+-     "text": [
+-      "C:\\Users\\doomz\\anaconda3\\Lib\\site-packages\\sklearn\\neural_network\\_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (10) reached and the optimization hasn't converged yet.\n",
+-      "  warnings.warn(\n"
+-     ]
+-    },
+-    {
+-     "name": "stdout",
+-     "output_type": "stream",
+-     "text": [
+-      "Validation Accuracy: 0.8814\n",
+-      "Training model: hidden_layer=(128,), alpha=0.0001, learning_rate=adaptive\n"
+-     ]
+-    },
+-    {
+-     "name": "stderr",
+-     "output_type": "stream",
+-     "text": [
+-      "C:\\Users\\doomz\\anaconda3\\Lib\\site-packages\\sklearn\\neural_network\\_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (10) reached and the optimization hasn't converged yet.\n",
+-      "  warnings.warn(\n"
+-     ]
+-    },
+-    {
+-     "name": "stdout",
+-     "output_type": "stream",
+-     "text": [
+-      "Validation Accuracy: 0.8814\n",
+-      "Training model: hidden_layer=(128,), alpha=0.001, learning_rate=constant\n"
+-     ]
+-    },
+-    {
+-     "name": "stderr",
+-     "output_type": "stream",
+-     "text": [
+-      "C:\\Users\\doomz\\anaconda3\\Lib\\site-packages\\sklearn\\neural_network\\_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (10) reached and the optimization hasn't converged yet.\n",
+-      "  warnings.warn(\n"
+-     ]
+-    },
+-    {
+-     "name": "stdout",
+-     "output_type": "stream",
+-     "text": [
+-      "Validation Accuracy: 0.8784\n",
+-      "Training model: hidden_layer=(128,), alpha=0.001, learning_rate=adaptive\n"
+-     ]
+-    },
+-    {
+-     "name": "stderr",
+-     "output_type": "stream",
+-     "text": [
+-      "C:\\Users\\doomz\\anaconda3\\Lib\\site-packages\\sklearn\\neural_network\\_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (10) reached and the optimization hasn't converged yet.\n",
+-      "  warnings.warn(\n"
+-     ]
+-    },
+-    {
+-     "name": "stdout",
+-     "output_type": "stream",
+-     "text": [
+-      "Validation Accuracy: 0.8784\n",
+-      "Training model: hidden_layer=(128,), alpha=0.01, learning_rate=constant\n"
+-     ]
+-    },
+-    {
+-     "name": "stderr",
+-     "output_type": "stream",
+-     "text": [
+-      "C:\\Users\\doomz\\anaconda3\\Lib\\site-packages\\sklearn\\neural_network\\_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (10) reached and the optimization hasn't converged yet.\n",
+-      "  warnings.warn(\n"
+-     ]
+-    },
+-    {
+-     "name": "stdout",
+-     "output_type": "stream",
+-     "text": [
+-      "Validation Accuracy: 0.8796\n",
+-      "Training model: hidden_layer=(128,), alpha=0.01, learning_rate=adaptive\n"
+-     ]
+-    },
+-    {
+-     "name": "stderr",
+-     "output_type": "stream",
+-     "text": [
+-      "C:\\Users\\doomz\\anaconda3\\Lib\\site-packages\\sklearn\\neural_network\\_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (10) reached and the optimization hasn't converged yet.\n",
+-      "  warnings.warn(\n"
+-     ]
+-    },
+-    {
+-     "name": "stdout",
+-     "output_type": "stream",
+-     "text": [
+-      "Validation Accuracy: 0.8796\n",
+-      "Training model: hidden_layer=(256,), alpha=0.0001, learning_rate=constant\n"
+-     ]
+-    },
+-    {
+-     "name": "stderr",
+-     "output_type": "stream",
+-     "text": [
+-      "C:\\Users\\doomz\\anaconda3\\Lib\\site-packages\\sklearn\\neural_network\\_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (10) reached and the optimization hasn't converged yet.\n",
+-      "  warnings.warn(\n"
+-     ]
+-    },
+-    {
+-     "name": "stdout",
+-     "output_type": "stream",
+-     "text": [
+-      "Validation Accuracy: 0.8870\n",
+-      "Training model: hidden_layer=(256,), alpha=0.0001, learning_rate=adaptive\n"
+-     ]
+-    },
+-    {
+-     "name": "stderr",
+-     "output_type": "stream",
+-     "text": [
+-      "C:\\Users\\doomz\\anaconda3\\Lib\\site-packages\\sklearn\\neural_network\\_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (10) reached and the optimization hasn't converged yet.\n",
+-      "  warnings.warn(\n"
+-     ]
+-    },
+-    {
+-     "name": "stdout",
+-     "output_type": "stream",
+-     "text": [
+-      "Validation Accuracy: 0.8870\n",
+-      "Training model: hidden_layer=(256,), alpha=0.001, learning_rate=constant\n"
+-     ]
+-    },
+-    {
+-     "name": "stderr",
+-     "output_type": "stream",
+-     "text": [
+-      "C:\\Users\\doomz\\anaconda3\\Lib\\site-packages\\sklearn\\neural_network\\_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (10) reached and the optimization hasn't converged yet.\n",
+-      "  warnings.warn(\n"
+-     ]
+-    },
+-    {
+-     "name": "stdout",
+-     "output_type": "stream",
+-     "text": [
+-      "Validation Accuracy: 0.8852\n",
+-      "Training model: hidden_layer=(256,), alpha=0.001, learning_rate=adaptive\n"
+-     ]
+-    },
+-    {
+-     "name": "stderr",
+-     "output_type": "stream",
+-     "text": [
+-      "C:\\Users\\doomz\\anaconda3\\Lib\\site-packages\\sklearn\\neural_network\\_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (10) reached and the optimization hasn't converged yet.\n",
+-      "  warnings.warn(\n"
+-     ]
+-    },
+-    {
+-     "name": "stdout",
+-     "output_type": "stream",
+-     "text": [
+-      "Validation Accuracy: 0.8852\n",
+-      "Training model: hidden_layer=(256,), alpha=0.01, learning_rate=constant\n"
+-     ]
+-    },
+-    {
+-     "name": "stderr",
+-     "output_type": "stream",
+-     "text": [
+-      "C:\\Users\\doomz\\anaconda3\\Lib\\site-packages\\sklearn\\neural_network\\_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (10) reached and the optimization hasn't converged yet.\n",
+-      "  warnings.warn(\n"
+-     ]
+-    },
+-    {
+-     "name": "stdout",
+-     "output_type": "stream",
+-     "text": [
+-      "Validation Accuracy: 0.8816\n",
+-      "Training model: hidden_layer=(256,), alpha=0.01, learning_rate=adaptive\n"
+-     ]
+-    },
+-    {
+-     "name": "stderr",
+-     "output_type": "stream",
+-     "text": [
+-      "C:\\Users\\doomz\\anaconda3\\Lib\\site-packages\\sklearn\\neural_network\\_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (10) reached and the optimization hasn't converged yet.\n",
+-      "  warnings.warn(\n"
+-     ]
+-    },
+-    {
+-     "name": "stdout",
+-     "output_type": "stream",
+-     "text": [
+-      "Validation Accuracy: 0.8816\n",
++      "Training model: hidden_layer=(64,), alpha=0.0001, learning_rate=constant\n",
++      "Validation Accuracy: 0.8758\n",
++      "Training model: hidden_layer=(64,), alpha=0.0001, learning_rate=adaptive\n",
++      "Validation Accuracy: 0.8758\n",
++      "Training model: hidden_layer=(64,), alpha=0.001, learning_rate=constant\n",
++      "Validation Accuracy: 0.8756\n",
++      "Training model: hidden_layer=(64,), alpha=0.001, learning_rate=adaptive\n",
++      "Validation Accuracy: 0.8756\n",
++      "Training model: hidden_layer=(64,), alpha=0.01, learning_rate=constant\n",
++      "Validation Accuracy: 0.8758\n",
++      "Training model: hidden_layer=(64,), alpha=0.01, learning_rate=adaptive\n",
++      "Validation Accuracy: 0.8758\n",
++      "Training model: hidden_layer=(128,), alpha=0.0001, learning_rate=constant\n",
++      "Validation Accuracy: 0.8798\n",
++      "Training model: hidden_layer=(128,), alpha=0.0001, learning_rate=adaptive\n",
++      "Validation Accuracy: 0.8798\n",
++      "Training model: hidden_layer=(128,), alpha=0.001, learning_rate=constant\n",
++      "Validation Accuracy: 0.8790\n",
++      "Training model: hidden_layer=(128,), alpha=0.001, learning_rate=adaptive\n",
++      "Validation Accuracy: 0.8790\n",
++      "Training model: hidden_layer=(128,), alpha=0.01, learning_rate=constant\n",
++      "Validation Accuracy: 0.8810\n",
++      "Training model: hidden_layer=(128,), alpha=0.01, learning_rate=adaptive\n",
++      "Validation Accuracy: 0.8810\n",
++      "Training model: hidden_layer=(256,), alpha=0.0001, learning_rate=constant\n",
++      "Validation Accuracy: 0.8850\n",
++      "Training model: hidden_layer=(256,), alpha=0.0001, learning_rate=adaptive\n",
++      "Validation Accuracy: 0.8850\n",
++      "Training model: hidden_layer=(256,), alpha=0.001, learning_rate=constant\n",
++      "Validation Accuracy: 0.8854\n",
++      "Training model: hidden_layer=(256,), alpha=0.001, learning_rate=adaptive\n",
++      "Validation Accuracy: 0.8854\n",
++      "Training model: hidden_layer=(256,), alpha=0.01, learning_rate=constant\n",
++      "Validation Accuracy: 0.8742\n",
++      "Training model: hidden_layer=(256,), alpha=0.01, learning_rate=adaptive\n",
++      "Validation Accuracy: 0.8742\n",
+       "\n",
+       "Best Model Parameters:\n",
+-      "MLPClassifier(hidden_layer_sizes=(256,), max_iter=10, random_state=42)\n",
++      "MLPClassifier(alpha=0.001, hidden_layer_sizes=(256,), max_iter=50,\n",
++      "              random_state=42)\n",
+       "\n",
+-      "Test Accuracy: 0.8720\n"
++      "Test Accuracy: 0.8730\n"
+      ]
+     }
+    ],
+-   "execution_count": 7
++   "execution_count": 6
+   },
+   {
+    "cell_type": "markdown",
+@@ -606,8 +358,8 @@
+   {
+    "metadata": {
+     "ExecuteTime": {
+-     "end_time": "2025-04-08T08:12:38.990662Z",
+-     "start_time": "2025-04-08T08:12:38.721431Z"
++     "end_time": "2025-04-08T14:56:03.016050Z",
++     "start_time": "2025-04-08T14:56:02.912318Z"
+     }
+    },
+    "cell_type": "code",
+@@ -633,25 +385,25 @@
+      "name": "stdout",
+      "output_type": "stream",
+      "text": [
+-      "Test Accuracy: 0.8720\n",
++      "Test Accuracy: 0.8730\n",
+       "\n",
+       "Classification Report:\n",
+       "              precision    recall  f1-score   support\n",
+       "\n",
+       "    Negative       0.87      0.87      0.87      2492\n",
+-      "    Positive       0.87      0.87      0.87      2508\n",
++      "    Positive       0.87      0.88      0.87      2508\n",
+       "\n",
+       "    accuracy                           0.87      5000\n",
+       "   macro avg       0.87      0.87      0.87      5000\n",
+       "weighted avg       0.87      0.87      0.87      5000\n",
+       "\n",
+       "Confusion Matrix:\n",
+-      "[[2174  318]\n",
+-      " [ 322 2186]]\n"
++      "[[2167  325]\n",
++      " [ 310 2198]]\n"
+      ]
+     }
+    ],
+-   "execution_count": 9
++   "execution_count": 7
+   },
+   {
+    "cell_type": "markdown",
+@@ -664,8 +416,8 @@
+   {
+    "metadata": {
+     "ExecuteTime": {
+-     "end_time": "2025-04-08T08:13:44.635152Z",
+-     "start_time": "2025-04-08T08:13:44.627038Z"
++     "end_time": "2025-04-08T14:56:03.050553Z",
++     "start_time": "2025-04-08T14:56:03.037721Z"
+     }
+    },
+    "cell_type": "code",
+@@ -714,7 +466,7 @@
+      ]
+     }
+    ],
+-   "execution_count": 10
++   "execution_count": 8
+   }
+  ],
+  "metadata": {
